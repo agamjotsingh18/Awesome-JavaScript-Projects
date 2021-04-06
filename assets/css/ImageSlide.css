@@ -12,7 +12,7 @@
                }
 
                *, *:before, *:after {
-                   box-sizing: inherit;
+                   box-sizing: content-box;
                }
 
                h1{
@@ -20,8 +20,8 @@
                }
 
                img{
-            width: 400px;
-            height: 400px;
+            width: 265px;
+            height: 280px;
             }
 
                .site-wrap {
